@@ -16,7 +16,7 @@ Here there is a description of the values in the dataset.
 
 2) sex - sex (1 = male; 0 = female)
 
-3) cp - chest pain type (1 = typical angina; 2 = atypical angina; 3 = non-anginal pain; 0 = asymptomatic)
+3) cp - chest pain type (0 = asymptomatic, 1 = typical angina; 2 = atypical angina; 3 = non-anginal pain)
 
 4) trestbps - resting blood pressure (in mm Hg on admission to the hospital)
 
@@ -38,9 +38,17 @@ Here there is a description of the values in the dataset.
 
 13) thal - 2 = normal; 1 = fixed defect; 3 = reversable defect
 
-14) num - the predicted attribute - diagnosis of heart disease (angiographic disease status) (Value 0 = < diameter narrowing; Value 1 = > 50% diameter narrowing)
+14) output  - diagnosis of heart disease (angiographic disease status) (0 = diameter narrowing, 1 = more than 50% diameter narrowing)
 
+## Definitions for understanding the dataset description
 
+**Angiography** or **arteriography** is a medical imaging technique used to visualize the inside of blood vessels and organs of the body, with particular interest in the **arteries**, veins, and the heart chambers.
+
+**Coronary angiography** can visualize coronary artery stenosis which is an abnormal narrowing in a blood vessel.
+
+An abnormal diameter narrowing of more than 50% is associated with a very high risk of heart attack, which is what we want to predict
+
+**Angina** is a type of chest pain caused by reduced blood flow to the heart and it is a symptom of coronary artery disease.
 
 ## TO DO:
 
