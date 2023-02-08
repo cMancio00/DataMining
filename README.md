@@ -18,7 +18,7 @@ Here there is a description of the values in the dataset.
 
 3) cp - chest pain type (0 = asymptomatic, 1 = typical angina; 2 = atypical angina; 3 = non-anginal pain)
 
-4) trestbps - resting blood pressure (in mm Hg on admission to the hospital)
+4) trtbps - resting blood pressure (in mm Hg on admission to the hospital)
 
 5) chol - serum cholestoral in mg/dl
 
