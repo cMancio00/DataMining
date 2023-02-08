@@ -20,7 +20,7 @@ Here there is a description of the values in the dataset.
 
 4) trtbps - resting blood pressure (in mm Hg on admission to the hospital)
 
-5) chol - serum cholestoral in mg/dl
+5) chol - serum cholesterol in mg/dl
 
 6) fbs - fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
 
