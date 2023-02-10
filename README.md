@@ -28,7 +28,7 @@ Here there is a description of the values in the dataset.
 
 8) thalachh - maximum heart rate achieved
 
-9) exang - exercise induced angina (1 = yes; 0 = no)
+9) exng - exercise induced angina (1 = yes; 0 = no)
 
 10) oldpeak - ST depression induced by exercise relative to rest
 
