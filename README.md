@@ -30,7 +30,7 @@ Here there is a description of the values in the dataset.
 
 9) exng - exercise induced angina (1 = yes; 0 = no)
 
-10) oldpeak - ST depression induced by exercise relative to rest
+10) oldpeak - ST depression induced by exercise relative to rest (mesured in millimiters)
 
 11) slope - the slope of the peak exercise ST segment (2 = upsloping; 1 = flat; 0 = downsloping)
 
@@ -49,6 +49,10 @@ Here there is a description of the values in the dataset.
 An abnormal diameter narrowing of more than 50% is associated with a very high risk of heart attack, which is what we want to predict
 
 **Angina** is a type of chest pain caused by reduced blood flow to the heart and it is a symptom of coronary artery disease.
+
+**ST depression** refers to a finding on an electrocardiogram, wherein the trace in the ST segment is abnormally low below the baseline.
+
+![ST segment depression](README_Pictures/ST_depression_illustration.jpg)
 
 ## TO DO:
 
