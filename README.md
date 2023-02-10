@@ -26,7 +26,7 @@ Here there is a description of the values in the dataset.
 
 7) restecg - resting electrocardiographic results (1 = normal; 2 = having ST-T wave abnormality; 0 = hypertrophy)
 
-8) thalach - maximum heart rate achieved
+8) thalachh - maximum heart rate achieved
 
 9) exang - exercise induced angina (1 = yes; 0 = no)
 
