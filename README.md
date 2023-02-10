@@ -32,7 +32,7 @@ Here there is a description of the values in the dataset.
 
 10) oldpeak - ST depression induced by exercise relative to rest (mesured in millimiters)
 
-11) slope - the slope of the peak exercise ST segment (2 = upsloping; 1 = flat; 0 = downsloping)
+11) slp - the Slope of ST segment at peak exercise (0 = downsloping; 1 = flat/horizontal; 2 = upsloping;)
 
 12) ca - number of major vessels (0-3) colored by flourosopy
 
@@ -53,6 +53,20 @@ An abnormal diameter narrowing of more than 50% is associated with a very high r
 **ST depression** refers to a finding on an electrocardiogram, wherein the trace in the ST segment is abnormally low below the baseline.
 
 ![ST segment depression](README_Pictures/ST_depression_illustration.jpg)
+
+Slope of ST segment at peak exercise could be:
+
+1) **Horizontal** slop is very typical of ischemia.
+
+![Horizontal](README_Pictures/Horizontal_ST.png)
+
+2) **Downsloping** is typical of ischemia.
+
+![Downsloping](README_Pictures/DownSloping_ST.png)
+
+3) **Upsloping** of ST segment depression is a normal finding during physical exercise, and it should be considered normal if the T-waves are not inverted. Hyperventilation, however may cause similar ST segment depression.
+
+![Upsloping](README_Pictures/Upsloping_ST.png)
 
 ## TO DO:
 
