@@ -34,9 +34,9 @@ Here there is a description of the values in the dataset.
 
 11) slp - the Slope of ST segment at peak exercise (0 = downsloping; 1 = flat/horizontal; 2 = upsloping;)
 
-12) ca - number of major vessels (0-3) colored by flourosopy
+12) caa - number of major vessels (0-4) colored by fluoroscopy
 
-13) thal - 2 = normal; 1 = fixed defect; 3 = reversable defect
+13) thall - 1 = fixed defect; 2 = normal;  3 = reversible defect
 
 14) output  - diagnosis of heart disease (angiographic disease status) (0 = diameter narrowing, 1 = more than 50% diameter narrowing)
 
@@ -68,13 +68,21 @@ Slope of ST segment at peak exercise could be:
 
 ![Upsloping](README_Pictures/Upsloping_ST.png)
 
+Nuclear stress testing requires the injection of a tracer, commonly technicium 99M (Myoview or Cardiolyte), which is then taken up by healthy, viable myocardial cells.
+
+A camera (detector) is used afterwards to image the heart and compare segments
+
+A coronary stenosis is detected when a myocardial segment takes up the nuclear tracer at rest, but not during cardiac stress. This is called a **reversible defect**.
+
+Scarred myocardium from prior infarct will not take up tracer at all and is referred to as a **fixed defect**.
+
 ## TO DO:
 
 - [x] Create the repository on GitHub
 - [x] Upload the dataset, README.md and .gitignore
 - [x] Provide the used Python libraries
-- [ ] Inspect the dataset and make some pre-processing (if needed)
-- [ ] Visualize the dataset and save the pictures in the [Pictures](Pictures) folder
+- [x] Inspect the dataset and make some pre-processing (if needed)
+- [x] Visualize the dataset and save the pictures in the [Pictures](Pictures) folder
 - [ ] Split the dataset in training set e test set
 - [ ] Apply Decision Tree
 - [ ] Apply KNN
