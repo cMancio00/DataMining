@@ -83,12 +83,11 @@ Scarred myocardium from prior infarct will not take up tracer at all and is refe
 - [x] Provide the used Python libraries
 - [x] Inspect the dataset and make some pre-processing (if needed)
 - [x] Visualize the dataset and save the pictures in the [Pictures](Pictures) folder
-- [ ] Split the dataset in training set e test set
-- [ ] Apply Decision Tree
-- [ ] Apply KNN
-- [ ] Apply Naive Bayes
-- [ ] Apply ANN
-- [ ] Compare accuracy and precision of the models above
+- [x] Split the dataset in training set e test set
+- [x] Apply Decision Tree
+- [x] Apply KNN
+- [x] Apply Naive Bayes
+- [x] Compare accuracy and precision of the models above
 
 
 
