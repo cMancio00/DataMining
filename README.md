@@ -52,21 +52,21 @@ An abnormal diameter narrowing of more than 50% is associated with a very high r
 
 **ST depression** refers to a finding on an electrocardiogram, wherein the trace in the ST segment is abnormally low below the baseline.
 
-![ST segment depression](README_Pictures/ST_depression_illustration.jpg)
+![ST segment depression](Pictures/README_Pictures/ST_depression_illustration.jpg)
 
 Slope of ST segment at peak exercise could be:
 
-1) **Horizontal** slop is very typical of ischemia.
+1) **Horizontal** slope is very typical of ischemia.
 
-![Horizontal](README_Pictures/Horizontal_ST.png)
+![Horizontal](Pictures/README_Pictures/Horizontal_ST.png)
 
 2) **Downsloping** is typical of ischemia.
 
-![Downsloping](README_Pictures/DownSloping_ST.png)
+![Downsloping](Pictures/README_Pictures/DownSloping_ST.png)
 
 3) **Upsloping** of ST segment depression is a normal finding during physical exercise, and it should be considered normal if the T-waves are not inverted. Hyperventilation, however may cause similar ST segment depression.
 
-![Upsloping](README_Pictures/Upsloping_ST.png)
+![Upsloping](Pictures/README_Pictures/Upsloping_ST.png)
 
 Nuclear stress testing requires the injection of a tracer, commonly technicium 99M (Myoview or Cardiolyte), which is then taken up by healthy, viable myocardial cells.
 
