@@ -30,7 +30,7 @@ Here there is a description of the values in the dataset.
 
 9) exng - exercise induced angina (1 = yes; 0 = no)
 
-10) oldpeak - ST depression induced by exercise relative to rest (mesured in millimiters)
+10) oldpeak - ST depression induced by exercise relative to rest (measured in millimeters)
 
 11) slp - the Slope of ST segment at peak exercise (0 = downsloping; 1 = flat/horizontal; 2 = upsloping;)
 
@@ -38,7 +38,7 @@ Here there is a description of the values in the dataset.
 
 13) thall - 1 = fixed defect; 2 = normal;  3 = reversible defect
 
-14) output  - diagnosis of heart disease (angiographic disease status) (0 = diameter narrowing, 1 = more than 50% diameter narrowing)
+14) output  - diagnosis of heart disease (angiography disease status) (0 = diameter narrowing, 1 = more than 50% diameter narrowing)
 
 ## Definitions for understanding the dataset description
 
